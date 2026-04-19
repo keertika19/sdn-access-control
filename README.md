@@ -57,10 +57,23 @@ h3 ping h1
 
 (Add screenshots here)
 
-* Topology running
+* Setup
+* <img width="604" height="441" alt="Screenshot 2026-04-19 194928" src="https://github.com/user-attachments/assets/273ab22c-9348-41d1-985e-207c5cf111d2" />
+
 * Allowed ping
+
+* <img width="576" height="447" alt="Screenshot 2026-04-19 194955" src="https://github.com/user-attachments/assets/afba1b6d-edbd-442c-b243-821c64a5d1bc" />
+
 * Blocked ping
+* <img width="591" height="152" alt="Screenshot 2026-04-19 195022" src="https://github.com/user-attachments/assets/106a2b67-819a-49c6-afb9-f1560b5e713f" />
+
 * Controller logs
+
+* <img width="527" height="370" alt="Screenshot 2026-04-19 195059" src="https://github.com/user-attachments/assets/f3ed7fd9-30e0-474c-8f94-827f4072305e" />
+
+<img width="425" height="273" alt="Screenshot 2026-04-19 195110" src="https://github.com/user-attachments/assets/ae1e2693-7740-4f62-86bc-9eee6db338cb" />
+
+
 
 ---
 
